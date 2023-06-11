@@ -1,0 +1,10 @@
+ffmpeg -i 01.jpg -vf scale=20:-1 01-small.jpg
+ffmpeg -i 02.png -vf scale=20:-1 02-small.png
+ffmpeg -i 03.jpg -vf scale=20:-1 03-small.jpg
+ffmpeg -i 04.jpg -vf scale=20:-1 04-small.jpg
+ffmpeg -i 05.jpg -vf scale=20:-1 05-small.jpg
+ffmpeg -i 06.jpg -vf scale=20:-1 06-small.jpg
+ffmpeg -i 07.jpg -vf scale=20:-1 07-small.jpg
+ffmpeg -i 08.jpg -vf scale=20:-1 08-small.jpg
+ffmpeg -i 09.jpg -vf scale=20:-1 09-small.jpg
+ffmpeg -i 10.jpg -vf scale=20:-1 10-small.jpg
